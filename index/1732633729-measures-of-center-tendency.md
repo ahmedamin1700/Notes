@@ -12,9 +12,9 @@ tags:
 One of the most commonly used statistics around,
 and it is simply the average of the dataset.
 
-```latex
-μ = \frac{Σx}{n}
-```
+$$
+\mu = \frac{ \Sigma x}{n}
+$$
 
 ## Median
 
