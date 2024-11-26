@@ -23,3 +23,14 @@ The average of the distances from the mean squared.
 $$
 variance = \frac{ \Sigma (x - \mu)^2}{n}
 $$
+
+## Standard deviation
+
+The standard deviation is a way of saying how far
+typical values are from the mean. The smaller the standard deviation,
+the closer values are to the mean. The smallest value the standard
+deviation can take is 0.
+
+$$
+σ = √variance
+$$
