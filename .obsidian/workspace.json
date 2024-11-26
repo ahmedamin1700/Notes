@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index/1732633729-measures-of-center-tendency.md",
+                "file": "index/1732635165-measures-of-spread-and-variability.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1732633729-measures-of-center-tendency"
+              "title": "1732635165-measures-of-spread-and-variability"
             }
           }
         ]
@@ -73,8 +73,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -161,8 +160,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,6 +175,7 @@
   },
   "active": "a7d33e95b4aa22ee",
   "lastOpenFiles": [
+    "index/1732633729-measures-of-center-tendency.md",
     "index/1732635165-measures-of-spread-and-variability.md"
   ]
 }

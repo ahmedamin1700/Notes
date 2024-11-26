@@ -10,7 +10,7 @@ tags:
 
 ## Range
 
-The difference between the samllest variable and the largest.
+The difference between the smallest variable and the largest.
 
 ## IQR = Interquartile
 
@@ -20,6 +20,6 @@ IQR = 3rd quartile - 1st quartile.
 
 The average of the distances from the mean squared.
 
-```latex
-variance = \frac{Σ(x-μ)^2}{n}
-```
+$$
+variance = \frac{ \Sigma (x - \mu)^2}{n}
+$$
