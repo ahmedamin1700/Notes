@@ -34,3 +34,13 @@ deviation can take is 0.
 $$
 σ = √variance
 $$
+
+## Z-score
+
+Standard scores, or z-scores, allow for the comparison of values
+across different data sets with varying means and standard deviations
+by standardizing the data.
+
+$$
+z = \frac{x - μ}{σ}
+$$
