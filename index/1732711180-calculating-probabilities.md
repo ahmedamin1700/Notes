@@ -25,4 +25,20 @@ $$
 
 ## Exclusive events and intersecting events
 
-1. **Matually Exclusive Events**: Events like the ball landing in a black or red pocket can't happen at the same time.
+### Matually Exclusive
+
+Events Events like the ball landing in a black or red pocket can't happen at
+the same time.
+
+$$
+P(\text{Black} or \text{Red}) = P(\text{Black}) + P(\text{Red})
+$$
+
+### Intersecting Events
+
+Events such as the ball landing in a black and even pocket can occur
+simultaneously.
+
+$$
+P(\text{Black} or \text{Red}) = P(\text{Black}) + P(\text{Red})
+$$
