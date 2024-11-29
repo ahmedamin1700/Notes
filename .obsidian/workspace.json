@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "dde8ff82ce77db8a",
@@ -160,7 +161,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,7 +177,8 @@
   },
   "active": "a7d33e95b4aa22ee",
   "lastOpenFiles": [
-    "index/1732633729-measures-of-center-tendency.md",
-    "index/1732635165-measures-of-spread-and-variability.md"
+    "index/new-note-for-testing.md",
+    "index/1732635165-measures-of-spread-and-variability.md",
+    "index/1732633729-measures-of-center-tendency.md"
   ]
 }

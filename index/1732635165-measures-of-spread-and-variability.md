@@ -23,7 +23,6 @@ The average of the distances from the mean squared.
 $$
 variance = \frac{ \Sigma (x - \mu)^2}{n}
 $$
-
 ## Standard deviation
 
 The standard deviation is a way of saying how far
