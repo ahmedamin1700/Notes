@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f08d5561f51d467d",
+        "id": "14f8cb58cf6200a8",
         "type": "tabs",
         "children": [
           {
-            "id": "a7d33e95b4aa22ee",
+            "id": "ea6f33d20a2e8870",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index/1732635165-measures-of-spread-and-variability.md",
-                "mode": "source",
-                "source": false
+                "file": "index/1732865971-conditional-probabilities.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "1732635165-measures-of-spread-and-variability"
+              "title": "1732865971-conditional-probabilities"
             }
           }
         ]
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "dde8ff82ce77db8a",
@@ -161,8 +160,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,13 +170,25 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "a7d33e95b4aa22ee",
+  "active": "ea6f33d20a2e8870",
   "lastOpenFiles": [
-    "index/new-note-for-testing.md",
+    "index/1732711180-calculating-probabilities.md",
+    "index/1732865971-conditional-probabilities.md",
+    "templates/template.md",
+    "index/1732626199-latex.md",
+    "templates",
+    "index/1732865749-{{tit11/29/20245}}.md",
+    "index/1732865717.md",
+    "index/1732865749-{{tit11/29",
+    "index/1732865749-{{tit11",
+    "index/Untitled.md",
+    "Untitled.md",
     "index/1732635165-measures-of-spread-and-variability.md",
+    "index/new-note-for-testing.md",
     "index/1732633729-measures-of-center-tendency.md"
   ]
 }
