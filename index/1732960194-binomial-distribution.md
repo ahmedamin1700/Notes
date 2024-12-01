@@ -18,3 +18,15 @@ probability of success is the same for each trial.
 $$
 P(X=r) = ^nC_r p^r q^n-r
 $$
+
+## Expectation
+
+$$
+E(X) = np
+$$
+
+## Variance
+
+$$
+Var(X) = npq
+$$
