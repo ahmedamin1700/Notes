@@ -1,6 +1,7 @@
 ---
 id: 1732633729-measures-of-center-tendency
-aliases: []
+aliases:
+  - Measures Of Center Tendency
 tags:
   - statistics
 ---
