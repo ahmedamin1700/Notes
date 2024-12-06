@@ -30,3 +30,9 @@ $$
 $$
 Var(X) = npq
 $$
+
+## Standard Deviation
+
+$$
+Std(X) = \sqrt{n \cdot p \cdot q}
+$$
