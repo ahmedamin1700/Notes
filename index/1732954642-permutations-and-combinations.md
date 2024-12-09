@@ -3,7 +3,7 @@ id: 1732954642-permutations-and-combinations
 aliases:
   - Permutations and Combinations
 tags:
-  - tatistics
+  - statistics
 ---
 
 # Permutations and Combinations
