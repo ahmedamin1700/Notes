@@ -8,27 +8,29 @@ tags:
 
 # Normal Distribution
 
-### Summary: **Normal Distribution Overview**
+## Summary
 
-1. **Definition**: The normal distribution, or bell curve, is symmetric with probabilities under the curve summing to 1. The mean (\( \mu \)) defines its position, and the standard deviation (\( \sigma \)) determines its shape (spread).  
+**Normal Distribution Overview**
+
+1. **Definition**: The normal distribution, or bell curve, is symmetric with probabilities under the curve summing to 1. The mean ($\mu$) defines its position, and the standard deviation ($\sigma$) determines its shape (spread).
 
 2. **Key Features**:
    - **Symmetry**: Left and right halves are identical.
    - **Mean, Median, and Mode**: Align at the curve's peak.
    - **Tails**: Extend infinitely but asymptotically approach zero.
 
-3. **Standard Normal Distribution**: Has \( \mu = 0 \) and \( \sigma = 1 \).  
+3. **Standard Normal Distribution**: Has $\mu = 0$ and $\sigma = 1$.
 
 4. **Probabilities**:
-   - **Between -1σ and 1σ**: \( 68.2\% \) of data.  
-   - **Between -2σ and 2σ**: \( 95.4\% \).  
-   - **Between -3σ and 3σ**: \( 99.7\% \).  
+   - **Between -1σ and 1σ**: $68.2\%$ of data.
+   - **Between -2σ and 2σ**: $95.4\%$.
+   - **Between -3σ and 3σ**: $99.7\%$.
 
 ---
 
-### Example Python Code:
+## Example Python Code:
 
-#### Plot a Normal Distribution
+### Plot a Normal Distribution
 ```python
 import numpy as np
 import matplotlib.pyplot as plt
@@ -50,7 +52,7 @@ plt.legend()
 plt.show()
 ```
 
-#### Calculate Probabilities
+### Calculate Probabilities
 ```python
 # Using SciPy for cumulative probabilities
 prob_below_1sd = norm.cdf(1) - norm.cdf(-1)  # P(-1σ ≤ Z ≤ 1σ)
